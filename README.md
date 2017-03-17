@@ -5,10 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* for loop
+		-A for loop executes a block of code FOR as long as a given condition is true. A for loop consists of three possible parts: a variable declaration, a conditional statement to check, and an operator to iterate your variable. 
 	* && || !
+		-These are operators for use with conditional statements. '&&' evaluates to 'true' if both conditional statements are true. '||' evaluates to 'true' if either conditional statement is true. The '!' operator means 'not' - it evalutes to the opposite of the boolean value of the variable you use it on. 
 	* Array
+		-Arrays are collections of objects that are grouped together by some common theme - for example, an array of fruits could contain apple, orange, banana, etc. It's essentially a way to store multiple variables in a container that acts like a single variable.
 	* git
+		-git is software that manages version control, which means that it allows many developers to all work on the same code base without "stepping on each other's toes" as it were. 
 	* GitHub
+		-GitHub is an online, cloud based code repository so you can store your code remotely and access it from anywhere. It also allows others to see and copy your code so they can collaborate with you. 
 
 
 2. Install git.  https://git-scm.com/downloads
